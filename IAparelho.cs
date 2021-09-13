@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Adapter {
-    interface IAparelho {
-        String Liga ();
-        String Desliga();
-    }
+  interface IAparelho {
+    String Liga();
+    String Desliga();
+  }
 }

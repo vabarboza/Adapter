@@ -21,7 +21,6 @@ C:\Users\Vinicius\Documents\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.dev.j
 C:\Users\Vinicius\Documents\Adapter\bin\Debug\net5.0\Adapter.dll
 C:\Users\Vinicius\Documents\Adapter\bin\Debug\net5.0\ref\Adapter.dll
 C:\Users\Vinicius\Documents\Adapter\bin\Debug\net5.0\Adapter.pdb
-C:\Users\Vinicius\Documents\Adapter\obj\Debug\net5.0\Adapter.csproj.AssemblyReference.cache
 C:\Users\Vinicius\Documents\Adapter\obj\Debug\net5.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Vinicius\Documents\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfoInputs.cache
 C:\Users\Vinicius\Documents\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfo.cs
