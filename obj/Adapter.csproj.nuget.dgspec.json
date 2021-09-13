@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lkmor\\source\\repos\\Adapter\\Adapter.csproj": {}
+    "C:\\Users\\Vinicius\\Documents\\Adapter\\Adapter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lkmor\\source\\repos\\Adapter\\Adapter.csproj": {
+    "C:\\Users\\Vinicius\\Documents\\Adapter\\Adapter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lkmor\\source\\repos\\Adapter\\Adapter.csproj",
+        "projectUniqueName": "C:\\Users\\Vinicius\\Documents\\Adapter\\Adapter.csproj",
         "projectName": "Adapter",
-        "projectPath": "C:\\Users\\lkmor\\source\\repos\\Adapter\\Adapter.csproj",
-        "packagesPath": "C:\\Users\\lkmor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lkmor\\source\\repos\\Adapter\\obj\\",
+        "projectPath": "C:\\Users\\Vinicius\\Documents\\Adapter\\Adapter.csproj",
+        "packagesPath": "C:\\Users\\Vinicius\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vinicius\\Documents\\Adapter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lkmor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "net5.0": {
@@ -54,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

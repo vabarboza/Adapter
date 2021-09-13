@@ -13,7 +13,7 @@ namespace Adapter {
             }
             set {
                 this.ligado = value;
-                Console.WriteLine (">>> {0}Ligando Aparelho", this.ligado ? "" : "des");
+                Console.WriteLine (">>> {0}Ligando Aparelho", this.ligado ? "" : "Des");
             }
         }
     }
