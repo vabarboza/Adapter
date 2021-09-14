@@ -29,3 +29,4 @@ C:\Users\Vinicius\Documents\Adapter\obj\Debug\net5.0\Adapter.dll
 C:\Users\Vinicius\Documents\Adapter\obj\Debug\net5.0\ref\Adapter.dll
 C:\Users\Vinicius\Documents\Adapter\obj\Debug\net5.0\Adapter.pdb
 C:\Users\Vinicius\Documents\Adapter\obj\Debug\net5.0\Adapter.genruntimeconfig.cache
+C:\Users\Vinicius\Documents\Adapter\obj\Debug\net5.0\Adapter.csproj.AssemblyReference.cache
